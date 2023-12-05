@@ -1,0 +1,15 @@
+.Container img {
+  width: 50%;
+  margin-top: 30px;
+}
+.Container h1 {
+  font-size: 20px;
+  float: left;
+  margin: 0;
+  margin-right: 380px;
+}
+.Container p {
+  font-size: 14px;
+  margin: 0;
+  margin-right: 130px;
+}
